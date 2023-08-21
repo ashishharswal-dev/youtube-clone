@@ -14,7 +14,7 @@ body {
     row-gap: 25px;
 
 }
-@media (min-width: 0px) and (max-width:468px) {
+@media (min-width: 0px) and (max-width:300px) {
     .video-grid{
         grid-template-columns: 1fr;
     }
